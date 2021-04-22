@@ -1,2 +1,16 @@
 # Wi-Fi-based-Indoor-Navigation-System-for-Android-Devices
-![image](https://user-images.githubusercontent.com/44452792/115739978-af7fbd80-a38e-11eb-98ec-d7160e6c286c.png)
+
+![Slide1](https://user-images.githubusercontent.com/44452792/115740294-f66db300-a38e-11eb-8bee-688572c31c40.JPG)
+![Slide2](https://user-images.githubusercontent.com/44452792/115740301-f8377680-a38e-11eb-9cb3-8f3b057d8b04.JPG)
+![Slide3](https://user-images.githubusercontent.com/44452792/115740304-f968a380-a38e-11eb-8c3c-d6e3527f8c44.JPG)
+![Slide4](https://user-images.githubusercontent.com/44452792/115740309-fa99d080-a38e-11eb-8e0c-b029c09719d1.JPG)
+![Slide5](https://user-images.githubusercontent.com/44452792/115740313-fbcafd80-a38e-11eb-97dc-b680a6bb105a.JPG)
+![Slide6](https://user-images.githubusercontent.com/44452792/115740320-fc639400-a38e-11eb-8cb4-760cce35aa8e.JPG)
+![Slide7](https://user-images.githubusercontent.com/44452792/115740325-fd94c100-a38e-11eb-9ed9-362c93dd1283.JPG)
+![Slide8](https://user-images.githubusercontent.com/44452792/115740328-fec5ee00-a38e-11eb-95ad-ba15e2debf93.JPG)
+![Slide9](https://user-images.githubusercontent.com/44452792/115740332-fff71b00-a38e-11eb-9ac7-35a186a53b59.JPG)
+![Slide10](https://user-images.githubusercontent.com/44452792/115740347-04233880-a38f-11eb-9934-9d78a88299bc.JPG)
+![Slide11](https://user-images.githubusercontent.com/44452792/115740354-05ecfc00-a38f-11eb-8273-376d2cf01eb3.JPG)
+![Slide12](https://user-images.githubusercontent.com/44452792/115740362-07b6bf80-a38f-11eb-8be8-7dbab4a8986b.JPG)
+![Slide13](https://user-images.githubusercontent.com/44452792/115740364-084f5600-a38f-11eb-9037-29b8f1156372.JPG)
+![Slide14](https://user-images.githubusercontent.com/44452792/115740372-09808300-a38f-11eb-843d-fb42a7a53d2a.JPG)
