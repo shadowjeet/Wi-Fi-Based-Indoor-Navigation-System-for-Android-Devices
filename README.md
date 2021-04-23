@@ -2,9 +2,7 @@
 
 In this Project Wi-Fi based Indoor Navigation System is developed for Islington College where students and other users inside the college premises can find their position using this system into their Android smartphones. This system uses signals received from the mobile device’s wireless adapter, compass, and accelerometer to determine the user’s position. Firstly, an RSS logger application was developed using Android API which creates a file containing RSS values and to determine the position the recorded RSS values are compared with the real-time RSS values received from the access point in the mobile device. The position of the mobile device or user is then displayed on the map in the smartphone.
 
-==================================================
-For full documentation please check: "PDF_Report_For_Wi-Fi_Based_IndoorNavigationSystem.pdf"
-==================================================
+## For full documentation please check: "PDF_Report_For_Wi-Fi_Based_IndoorNavigationSystem.pdf"
 
 ![Slide1](https://user-images.githubusercontent.com/44452792/115742169-b7d8f800-a390-11eb-821d-4039524d77e6.JPG)
 ![Slide2](https://user-images.githubusercontent.com/44452792/115742177-b8718e80-a390-11eb-8faf-d7e9bb6b2818.JPG)
